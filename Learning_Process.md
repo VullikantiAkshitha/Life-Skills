@@ -1,6 +1,6 @@
 
 
-Question 1: What is the Feynman Technique?**
+## Question 1: What is the Feynman Technique?
 
 * A learning method where you explain a concept in **simple words**.
 * If you can explain it simply, it means you understand it well.
@@ -8,7 +8,7 @@ Question 1: What is the Feynman Technique?**
 
 ---
 
-Question 2: Most interesting story/idea in Barbara Oakley’s TED Talk**
+## Question 2: Most interesting story/idea in Barbara Oakley’s TED Talk
 
 * Barbara Oakley struggled with math when she was young.
 * She later changed her learning approach and became an engineer.
@@ -16,7 +16,7 @@ Question 2: Most interesting story/idea in Barbara Oakley’s TED Talk**
 
 ---
 
-Question 3: Active and Diffused Modes of Thinking**
+## Question 3: Active and Diffused Modes of Thinking
 
 * **Active Mode** → Focused thinking, step-by-step problem-solving.
 * **Diffused Mode** → Relaxed thinking, creative connections and new ideas.
@@ -24,7 +24,7 @@ Question 3: Active and Diffused Modes of Thinking**
 
 ---
 
-**Question 4: Steps to Learn Anything in 20 Hours**
+## Question 4: Steps to Learn Anything in 20 Hours
 
 1. Break the skill into smaller parts.
 2. Learn enough to practice and self-correct.
@@ -33,7 +33,7 @@ Question 3: Active and Diffused Modes of Thinking**
 
 ---
 
-### **Question 5: Actions to Improve My Learning Process**
+## Question 5: Actions to Improve My Learning Process
 
 * Do focused study sessions without distractions (deep work).
 * Use the Feynman Technique: explain in my own words.
